@@ -1,5 +1,5 @@
 /*
-    Written by: AbdulKhaliq Alhassan. 2024-2-1
+    Written by: AbdulKhaliq Alhassan. 2024-2-17
   
   Ask a user to enter an odd number N and print diamond pattern with N rows.
   
