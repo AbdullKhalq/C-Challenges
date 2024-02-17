@@ -1,4 +1,6 @@
 /*
+    Written by: AbdulKhaliq Alhassan. 2024-2-1
+  
   Ask a user to enter an odd number N and print diamond pattern with N rows.
   
   How the code works:
