@@ -1,5 +1,5 @@
 /*
-  Written by: AbdulKhaliq Alhassan. 2024-2-1
+  Written by: AbdulKhaliq Alhassan. 2024-2-17
   
   Asks a user to enter a number and check whether it is a prime number or not.
 */
