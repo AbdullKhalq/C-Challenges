@@ -4,7 +4,6 @@
   Asks a user to enter a number and check whether it is a prime number or not.
 */
 
-
 #include <iostream>
 using namespace std;
 
